@@ -1,0 +1,19 @@
+
+
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<title>produto</title>
+		<meta charset="utf-8">
+		<style>
+		body {background-color:pink;}
+		</style>
+	</head>
+
+
+    <body>
+	 <h1>Produtos</h1>
+	    seja bem vindo (a) á página de <b>Produtos</b>
+        
+     </body>
+</html>	 
