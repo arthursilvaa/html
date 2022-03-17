@@ -1,0 +1,21 @@
+
+
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<title>Serviço</title>
+		<meta charset="utf-8">
+		<style>
+		body{
+			background-color:fuchsia;
+				color:white;
+		</style>
+	</head>
+
+
+    <body>
+	 <h1>Seviços</h1>
+	    seja bem vindo (a) á página de <b>Produtos</b>
+        
+     </body>
+</html>	 
